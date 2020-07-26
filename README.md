@@ -1,6 +1,6 @@
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+### Hey there! I'm Derek :)
 
-Hey there! I'm Derek :)
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 <!--
 **dlon450/dlon450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
