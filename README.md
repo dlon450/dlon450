@@ -2,6 +2,7 @@
 
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
+Here are a couple of notable projects that I have worked on recently.
 <!--
 **dlon450/dlon450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
